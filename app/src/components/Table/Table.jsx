@@ -31,7 +31,7 @@ const Table = ({dinners, nbrTable, occuped, leaveTable, ...props}) => {
         [`& .${tooltipClasses.tooltip}`]: {
           backgroundColor: theme.palette.common.black,
           color: '#ffffff',
-          fontSize: '25px'
+          fontSize: '12px'
         },
       }));
 
